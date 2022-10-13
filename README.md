@@ -9,7 +9,7 @@
 Powerful and fully featured PHP library that features photoshop-style
 image layering, compositing, filtering, blending and masking.
 
-Uses Imagick and PHP 7+
+Uses Imagick and PHP 8.1+
 
 ## Introduction
 
