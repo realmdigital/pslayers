@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "36799340de81e104748fffbb5d592b1b",
+    "content-hash": "b5977b4ac078054976b644b1bc6a1dd5",
     "packages": [
         {
             "name": "darrynten/imagick-scripts",
@@ -33,6 +33,10 @@
                 }
             ],
             "description": "Mirror of Fred's ImageMagick Scripts",
+            "support": {
+                "issues": "https://github.com/darrynten/imagick-scripts/issues",
+                "source": "https://github.com/darrynten/imagick-scripts/tree/1.0.1"
+            },
             "time": "2018-02-11T15:10:09+00:00"
         },
         {
