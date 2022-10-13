@@ -142,7 +142,7 @@ abstract class FredBaseFilter extends BaseFilter
         $execute .= $outPath;
 
         // Run
-        $process = new Process(trim($execute));
+        $process = new Process([trim($execute)]);
         $process->run();
 
         if (!$process->isSuccessful()) {
